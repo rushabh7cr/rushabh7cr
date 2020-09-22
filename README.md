@@ -7,7 +7,7 @@ Welcome to my Github! I am Rushabh shah, pursuing masters in data science at the
 
 [![Resume Rushabh shah](https://img.shields.io/badge/Resume-Rushabh%20shah-green)](https://drive.google.com/file/d/1Fbx5WiKE6cEagzdCqxC7nNeFoUCV4Ezl/view?usp=sharing)
 
-[![Twitter Rushabh shah](https://img.shields.io/twitter/url?style=social)](https://twitter.com/rushabhshahhh/)
+[![Twitter Rushabh shah](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frushabhshahhh)](https://twitter.com/rushabhshahhh/)
 
 
 <table width="100%">

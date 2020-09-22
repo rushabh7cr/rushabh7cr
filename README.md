@@ -4,7 +4,11 @@ Welcome to my Github! I am Rushabh shah, pursuing masters in data science at the
 
 
 [![LinkedIn Rushabh shah](https://img.shields.io/badge/LinkedIn-Rushabh%20shah-blue)](http://www.linkedin.com/in/rushabh-shah-07/)
-[![Resume Hrishikesh Paul](https://img.shields.io/badge/Resume-Rushabh%20shah-green)](https://drive.google.com/file/d/1Fbx5WiKE6cEagzdCqxC7nNeFoUCV4Ezl/view?usp=sharing)
+
+[![Resume Rushabh shah](https://img.shields.io/badge/Resume-Rushabh%20shah-green)](https://drive.google.com/file/d/1Fbx5WiKE6cEagzdCqxC7nNeFoUCV4Ezl/view?usp=sharing)
+
+[![Twitter Rushabh shah](https://img.shields.io/twitter/url?style=social)](https://twitter.com/rushabhshahhh/)
+
 
 <table width="100%">
     <tr>

@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Welcome to my Github! I am Rushabh shah, pursuing masters in data science at the Indiana university Bloomington. My courses are inclined towards machine learning, statistics and deep learning. I have a background in computer science and software. 
+Welcome to my Github! I am Rushabh shah, pursuing masters in data science at the Indiana university Bloomington. I enjoy coding and learning new things.
+My interests are inclined towards machine learning, statistics and deep learning. I also have a background in computer science and software.  
 
 
 [![LinkedIn Rushabh shah](https://img.shields.io/badge/LinkedIn-Rushabh%20shah-blue)](http://www.linkedin.com/in/rushabh-shah-07/)

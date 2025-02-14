@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-Welcome to my Github! I am Rushabh shah, pursuing masters in data science at the Indiana university Bloomington. I enjoy coding and learning new things.
-My interests are inclined towards machine learning, statistics and deep learning. I also have a background in computer science and software.  
+Welcome to my GitHub! I am Rushabh Shah, I have 3+ years of experience as a Data Scientist and Master's in DS. I enjoy coding and learning new things.
+My interests are inclined towards machine learning, statistics, and data analytics. I also have a background in computer science and software.  
 
 
 [![LinkedIn Rushabh shah](https://img.shields.io/badge/LinkedIn-Rushabh%20shah-blue)](http://www.linkedin.com/in/rushabh-shah-07/)
-
-[![Resume Rushabh shah](https://img.shields.io/badge/Resume-Rushabh%20shah-green)](https://drive.google.com/file/d/1Fbx5WiKE6cEagzdCqxC7nNeFoUCV4Ezl/view?usp=sharing)
-
-[![Twitter Rushabh shah](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frushabhshahhh)](https://twitter.com/rushabhshahhh/)
 
 
 <table width="100%">
@@ -42,9 +38,9 @@ My interests are inclined towards machine learning, statistics and deep learning
 
 
 🔭 I’m currently working on ... Lots of stuff!!
-1. I am working on ELECTRA(NLP) model. It is a transformer based neural network used for various NLP tasks.
-2. Graphical Neural Networks : This is less of an implementation and more of learning.
-3. I am a graduate assistant. I teach and assist grad and PhD students in machine learning.
+1. At Doorstead as a Full Stack Data Scientist 2
+2. Stealth projects.
+
 
 
 <!--
